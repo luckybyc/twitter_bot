@@ -1,1 +1,1 @@
-worker: python twitterbot_retweet.py
+worker: python retweet.py
